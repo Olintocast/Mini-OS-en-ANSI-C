@@ -1,2 +1,5 @@
 # Mini-OS-on-Turbo-C
-Repositorio destinado a la creación y desarrollo de un Mini OS sencillo en el antiguo IDE de Borland. La versión original fue desarrollada por 3 programadores sin experiencia.
+## Cómo instalar
+### 1. Descargar el IDE de Borland y un emulador para ejecutarlo (ejemplo: DOSBox)
+### 2. Ubicar el archivo .c en la carpeta BIN del programa y mover los archivos .h al directorio INCLUDE
+### 3. Compilar y ejecutar el archivo .c
