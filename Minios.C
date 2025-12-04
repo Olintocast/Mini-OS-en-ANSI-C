@@ -9,9 +9,9 @@
 #include <math.h>
 #include <time.h>
 
-#include <globales.h>
-#include <notas.h>
-#include <sistemas.h>
+#include "globales.h"
+#include "notas.h"
+#include "sistemas.h"
 
 /* Comentario aclaratorio: muchas funciones reciben por referencia estructuras 'globales' porque originalmente estaban inicializadas
 en el main. Al crecer el proyecto tuvimos que hacerlas globales, pero no fue necesario cambiar la forma de acceder a ellas en todas las

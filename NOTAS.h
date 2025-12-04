@@ -2,8 +2,9 @@
 #define NOTAS_H
 
 #include <ctype.h>
-#include <globales.h>
 #include <dos.h>
+
+#include "globales.h"
 
 /* FUNCIONES DE MOUSE */
 /* Mouse.h nos daba problema asi que recreamos sus funciones aqui mismo leyendo su codigo */
